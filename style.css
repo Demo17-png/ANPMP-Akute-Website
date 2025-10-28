@@ -215,7 +215,7 @@ article {
         color: var(--text-color-light);
         font-weight: 600;
         display: block;
-        width: clamp(200px, 80vw, 300px); 
+        width: clamp(70px, 30vw, 100px); 
         margin: 20px auto;
         padding: 12px 20px;
         border: 2px solid transparent;
@@ -407,3 +407,4 @@ article {
         height: 300px; /* Slightly taller for a better portrait display */
     }
 }
+
