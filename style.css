@@ -360,7 +360,7 @@ article {
 @media (max-width: 768px) {
     /* Mobile navigation */
     logo {
-        width: 100px; 
+        width: 150px; 
     }
     .menu-toggle {
         display: block;
@@ -408,3 +408,4 @@ article {
         height: 300px; /* Slightly taller for a better portrait display */
     }
 }
+
