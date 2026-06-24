@@ -172,8 +172,16 @@ h1 {
     background-size: cover;
     background-position: center center;
 }
+.agm img {
+    width: 50%;
+    margin: 20px auto;
+}
 .dp2 img {
     width: 100%;
+}
+.inaug {
+    width: 50vw;
+    margin-top: 80px;
 }
 article {
     font-size: clamp(1em, 4vw, 1.15em);
